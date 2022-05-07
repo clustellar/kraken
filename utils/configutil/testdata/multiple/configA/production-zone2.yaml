@@ -1,5 +1,0 @@
-extends: production.yaml
-servers:
-  - 127.0.0.1:01
-nodes:
-  configAProdZone2: nodeA
